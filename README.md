@@ -1,2 +1,2 @@
 # Kotlin_beggining
-Začátky s kotlinem
+Tento repozitář nese první krůčky v jazyce Kotlin.
